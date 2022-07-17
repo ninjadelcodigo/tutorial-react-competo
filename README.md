@@ -1,7 +1,6 @@
-# Tutorial React Completo
+# Tutorial React Completo - Lección 4
 
-* Cmponentes y Plantillas (Components & Templates)
-* traducir al español
-* modificar contenido del App al español
-* versiones antiguas de React (< 16) necesita import React
+* Comenzar con un nuevo component de App
+* Eliminar logo.svg
+* Como exportar e importar componentes y usarlos con render de ReactDOM
 
